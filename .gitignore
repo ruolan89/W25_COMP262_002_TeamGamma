@@ -1,0 +1,6 @@
+.DS_Store
+.ipynb_checkpoints/
+__TMP__/
+.venv/
+~~*
+__*__
